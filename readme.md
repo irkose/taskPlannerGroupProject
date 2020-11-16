@@ -1,5 +1,5 @@
 # **Task Planner**
-
+ ![screenshot](/img/Screenshot.png)
 This is a group final project which was build in several stages: 
 
 - [x] Create a wireframe.
