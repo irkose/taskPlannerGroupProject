@@ -22,11 +22,8 @@ This is a group final project which was build in several stages:
 - Create the pull request.
 - Alternatively see the GitHub documentation on creating a pull request.
 
-## Video
-
-![video](/img/IMG_0352.mov)
-
 ## Found a bug?
 Reach me at irina.kose@gmail.com
  
+ ![screenshot](/img/Screenshot.png)
 
