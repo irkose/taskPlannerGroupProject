@@ -25,5 +25,4 @@ This is a group final project which was build in several stages:
 ## Found a bug?
 Reach me at irina.kose@gmail.com
  
- ![screenshot](/img/Screenshot.png)
 
